@@ -18,5 +18,7 @@
 •	Segment wise sales
 •	Returns
 
+![Final Dashboard for Super Store sales](https://github.com/user-attachments/assets/794fe716-0c0a-4835-9e24-4f098114bc58)
+
 
 
