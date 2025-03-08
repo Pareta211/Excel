@@ -8,4 +8,15 @@
 5.	Geographic Sales: Region-wise and state-wise sales comparison.
 6.	Order Quantity Trends: Monthly or quarterly sales trend analysis.
 
+   Dashboard = https://github.com/Pareta211/Excel/blob/main/Final%20Dashboard%20for%20Super%20Store%20sales.png
+
+   ## Key Insights:
+•	Sales vs. Profit: 
+•	Top 5 state by sales
+•	Top 5 selling product
+•	Regional sales
+•	Segment wise sales
+•	Returns
+
+
 
